@@ -1,0 +1,12 @@
+/Users/cesarportillo/Desktop/Programacion/dataRegister/bin/Debug/netcoreapp3.1/dataRegister.deps.json
+/Users/cesarportillo/Desktop/Programacion/dataRegister/bin/Debug/netcoreapp3.1/dataRegister.runtimeconfig.json
+/Users/cesarportillo/Desktop/Programacion/dataRegister/bin/Debug/netcoreapp3.1/dataRegister.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/Programacion/dataRegister/bin/Debug/netcoreapp3.1/dataRegister.dll
+/Users/cesarportillo/Desktop/Programacion/dataRegister/bin/Debug/netcoreapp3.1/dataRegister.pdb
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.dll
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.pdb
+/Users/cesarportillo/Desktop/Programacion/dataRegister/obj/Debug/netcoreapp3.1/dataRegister.genruntimeconfig.cache

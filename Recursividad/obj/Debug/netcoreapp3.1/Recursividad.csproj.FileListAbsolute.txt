@@ -1,0 +1,12 @@
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/Programacion/Recursividad/bin/Debug/netcoreapp3.1/Recursividad.deps.json
+/Users/cesarportillo/Desktop/Programacion/Recursividad/bin/Debug/netcoreapp3.1/Recursividad.runtimeconfig.json
+/Users/cesarportillo/Desktop/Programacion/Recursividad/bin/Debug/netcoreapp3.1/Recursividad.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/Programacion/Recursividad/bin/Debug/netcoreapp3.1/Recursividad.dll
+/Users/cesarportillo/Desktop/Programacion/Recursividad/bin/Debug/netcoreapp3.1/Recursividad.pdb
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.dll
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.pdb
+/Users/cesarportillo/Desktop/Programacion/Recursividad/obj/Debug/netcoreapp3.1/Recursividad.genruntimeconfig.cache

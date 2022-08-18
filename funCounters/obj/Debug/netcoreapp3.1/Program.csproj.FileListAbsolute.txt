@@ -1,0 +1,12 @@
+/Users/cesarportillo/Desktop/Programacion/funCounters/bin/Debug/netcoreapp3.1/Program.deps.json
+/Users/cesarportillo/Desktop/Programacion/funCounters/bin/Debug/netcoreapp3.1/Program.runtimeconfig.json
+/Users/cesarportillo/Desktop/Programacion/funCounters/bin/Debug/netcoreapp3.1/Program.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/Programacion/funCounters/bin/Debug/netcoreapp3.1/Program.dll
+/Users/cesarportillo/Desktop/Programacion/funCounters/bin/Debug/netcoreapp3.1/Program.pdb
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.dll
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.pdb
+/Users/cesarportillo/Desktop/Programacion/funCounters/obj/Debug/netcoreapp3.1/Program.genruntimeconfig.cache
