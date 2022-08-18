@@ -1,0 +1,12 @@
+/Users/cesarportillo/Desktop/Programacion/flows/bin/Debug/netcoreapp3.1/flows.deps.json
+/Users/cesarportillo/Desktop/Programacion/flows/bin/Debug/netcoreapp3.1/flows.runtimeconfig.json
+/Users/cesarportillo/Desktop/Programacion/flows/bin/Debug/netcoreapp3.1/flows.runtimeconfig.dev.json
+/Users/cesarportillo/Desktop/Programacion/flows/bin/Debug/netcoreapp3.1/flows.dll
+/Users/cesarportillo/Desktop/Programacion/flows/bin/Debug/netcoreapp3.1/flows.pdb
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.csprojAssemblyReference.cache
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.AssemblyInfoInputs.cache
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.AssemblyInfo.cs
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.csproj.CoreCompileInputs.cache
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.dll
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.pdb
+/Users/cesarportillo/Desktop/Programacion/flows/obj/Debug/netcoreapp3.1/flows.genruntimeconfig.cache
